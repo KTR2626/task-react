@@ -20,7 +20,7 @@ function App() {
         <>
           <h2>トップ画面</h2>
           <button onClick={() => setScreen("login")}>
-            ログイン画面へ
+            ログイン画面へブランチテストです
           </button>
         </>
       )}
